@@ -31,6 +31,10 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 #For use with client side single page apps such as the venerable https://github.com/lynndylanhurley/ng-token-auth.
 gem 'devise_token_auth', '~> 0.1.42'
+#Gerador de Lero-Lero.
+gem 'lerolero_generator', '~> 1.0', '>= 1.0.1'
+#Faker, a port of Data::Faker from Perl, is used to easily generate fake data: names, addresses, phone numbers, etc.
+gem 'faker', '~> 1.8', '>= 1.8.4'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
