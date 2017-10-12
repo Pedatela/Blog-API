@@ -1,4 +1,4 @@
-namespace :100 do
+namespace :cem do
 
   desc "Configura o ambiente de desenvolvimento"
   task setup: :environment do

@@ -1,4 +1,4 @@
-namespace :100000 do
+namespace :cemmil do
   desc "Configura o ambiente de desenvolvimento"
   task setup: :environment do
         puts "Cadastrando os Usuarios..."
